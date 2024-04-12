@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+
+-e .   #Install a project in editable mode (i.e. >setuptools “develop mode”) from a >local project path or a VCS url.So the dot indicates the path, i.e the actual directory 
